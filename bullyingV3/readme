@@ -1,1 +1,20 @@
+#Readme
 
+This dataset contains data collected from Twitter stream API and labeled by experienced annotators for the study of bullying in social media.
+
+The dataset contains 3,096 tweets in total.
+
+Each line in this dataset structured like: <tweetid>|<userid>|<text>|<label>.
+
+***********************************REFERENCE****************************************
+[1] Learning from bullying traces in social media.
+Jun-Ming Xu, Kwang-Sung Jun, Xiaojin Zhu, and Amy Bellmore.
+In North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT).
+Montreal, Canada, 2012.
+
+[2] Understanding and Fighting Bullying with Machine Learning.
+Jun-Ming Xu.
+Phd Thesis, University of Wisconsin-Madison, June 2015.
+
+for more information, please visit http://research.cs.wisc.edu/bullying/
+Contact: Jun-Ming Xu (xujm@cs.wisc.edu), Xiaojin Zhu (jerryzhu@cs.wisc.edu)
