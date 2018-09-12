@@ -1,6 +1,6 @@
-#Readme
+Readme
 
-This dataset contains data collected from Twitter stream API and labeled by experienced annotators for the study of bullying in social media.
+This dataset contains data collected from Twitter stream API on September 10th, 2018 and labeled by experienced annotators for the study of bullying in social media.
 
 The dataset contains 11,243 tweets in total, 13 tweets labeled as "racism", 2,918 tweets labeled as "sexism" and 8,312 tweets labeled as "none".
 
