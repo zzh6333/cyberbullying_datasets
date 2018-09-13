@@ -2,9 +2,14 @@ Readme
 
 This dataset contains data collected from Twitter stream API on September 10th, 2018 and labeled by experienced annotators for the study of bullying in social media.
 
-The dataset contains 11,243 tweets in total, 13 tweets labeled as "racism", 2,918 tweets labeled as "sexism" and 8,312 tweets labeled as "none".
+The dataset contains 11,243 tweets and 1714 users in total, 13 tweets labeled as "racism", 2,918 tweets labeled as "sexism" and 8,312 tweets labeled as "none".
 
-Each line in this dataset structured like: <label>|<tweetid>|<userid>|<tweets>.
+"NAACL_SRW_2016.txt":
+Each line in this file structured like: <label>|<tweetid>|<userid>|<tweets>.
+
+"relation.txt":
+This file is about the friendship between users in this dataset.
+Each line in this file structured like:<userid_from>|<userid_to>
 
 ***********************************REFERENCE****************************************
 Zeerak Waseem and Dirk Hovy, Hateful symbols or hateful people? predictive features for hate speech detection on twitter. In Proceedings of the NAACL Student Research Workshop, San Diego, California, June 2016. Association for Computational Linguistics.
