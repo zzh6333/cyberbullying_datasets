@@ -1,0 +1,8 @@
+MySpace Dataset: MySpace is another web2.0 social networking website. The registered accounts are allowed to view pictures, read chat and check other peoples’ profile information.
+The MySpace dataset is crawled from MySpace groups. Each group consists of several posts by different users, which can be regarded as a conversation about one topic.
+
+MySpace Dataset: http://www.chatcoder.com/DataDownload
+
+***********************************REFERENCE****************************************
+[1]Zhao R, Mao K. Cyberbullying Detection based on Semantic-Enhanced Marginalized Denoising Auto-Encoder[J]. IEEE Transactions on Affective Computing, 2017, PP(99):1-1.
+[2]J. Bayzick, A. Kontostathis, and L. Edwards, “Detecting the presence of cyberbullying using computer software,” in Proceedings of the ACM WebSci’11. Koblenz, Germany: ACM, June 2011, pp. 1–2.
