@@ -10,5 +10,7 @@ Each line in this file structured like: <label>|<tweetid>|<userid>|<tweets>.
 This file contains 9,452 friendship between users who are in "NAACL_SRW_2016.txt".
 Each line in this file structured like:<userid_from>|<userid_to>
 
+For a copy of this dataset, please send email to zhzhao@cqu.edu.cn
+
 ***********************************REFERENCE****************************************
 Zeerak Waseem and Dirk Hovy, Hateful symbols or hateful people? predictive features for hate speech detection on twitter. In Proceedings of the NAACL Student Research Workshop, San Diego, California, June 2016. Association for Computational Linguistics.
