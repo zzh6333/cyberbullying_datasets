@@ -1,3 +1,3 @@
 # cyberbullying_datasets
 
-These datasets are used for study.
+These datasets are used for research.
