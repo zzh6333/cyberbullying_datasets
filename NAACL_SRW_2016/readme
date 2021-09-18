@@ -1,10 +1,10 @@
 Readme
 
-This dataset contains data collected from Twitter stream API on September 10th, 2018 and labeled by experienced annotators for the study of bullying in social media.
+This dataset contains data collected from Twitter stream API on September 10th, 2018 and labeled by experienced annotators for the study of bullying in social media. To obtain the individual tweets, use the Twitter API of your choice and query for the ID's provided.
 
-"NAACL_SRW_2016.txt":
+"tweet_info.csv":
 The dataset contains 11,243 tweets and 1,714 users in total, 13 tweets labeled as "racism", 2,918 tweets labeled as "sexism" and 8,312 tweets labeled as "none".
-Each line in this file structured like: <label>|<tweetid>|<userid>|<tweets>.
+Each line in this file structured like: <label> <tweetid> <userid>.
 
 "relation.txt":
 This file contains 9,452 friendship between users who are in "NAACL_SRW_2016.txt".
